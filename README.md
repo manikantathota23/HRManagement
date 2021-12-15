@@ -1,1 +1,3 @@
-# HRManagement
+# HR MANAGEMENT SYSTEM
+
+There are many employees in an office, each employee with employee id, .All the details related to all his job titles, date of promotion, salary details in each position needs to be stored in the database system. System should also give admin privilege to administrators who are able to conduct new interviews based on resumes received, have a selection process and a final list of approved recruitment to be added to list. Employee should be able to apply for promotion to various designations, .If they satisfy the criterias set in the system, administrators should have the privilege to approve their promotion. Have search mechanism to retrieve data as needed as various reports. Report generation module should be able to generate various reports for reference .
