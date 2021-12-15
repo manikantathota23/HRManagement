@@ -1,0 +1,80 @@
+id,fname,lname,gender,dob,email,phno,city,pincode,datejoined,salary,role,qualifycation,Department,d_id,training,score1,score2
+E001,Mahi,Shinoy,Male,17-05-1990,rahimdysp@gmail.com,8456123785,Ri Bhoi,793103,09-09-2010,74000,Employee,M.Tech.,Marketing,D001,Soft-Skills,80,60
+E002,Konda,Venkata Sai Sumitha,Female,02-12-1965,abhay2003gopal@gmail.com,9456123147,East Garo Hills,794111,12-05-2012,45000,Employee,Ph.D.,Administration,D002,PHPDevolopment,81,61
+E003,Muhammed,Shajahan,Male,25-12-1990,abhikrishnaram88@gmail.com,9456123784,East Garo Hills,794110,05-09-2010,24000,Employee,IT,Programming,D003,TechnicalTraining,82,62
+E004,Dhruv,Dinesh,Male,14-12-1989,adarshsinghdpsjkp.1587@gmail.com,8478475487,Chamrajnagar,571442,13-08-2010,52000,Employee,M.Tech.,Marketing,D001,TimeManagement,83,63
+E005,GOKUL,KRISHNA B R,Male,03-08-1985,aadianan@gmail.com,7454754756,East Sikkim,737134,05-12-2015,86000,Employee,IT,QualityManagemnt,D004,PHPDevolopment,84,64
+E006,Akshay,K,Male,25-09-1995,aishwaryapareparambil@gmail.com,8456789456,Hyderabad,500004,15-08-2020,45000,Employee,Ph.D.,Administration,D002,TimeManagement,85,65
+E007,Katru,Venkata Naga Satya Sarath,Male,25-10-1982,akshayajith292@gmail.com,9457845123,Hyderabad,500045,25-03-2014,25000,Employee,B.Tech.,Marketing,D001,Soft-Skills,86,66
+E008,Adith,Krishna,Male,08-05-1983,allenkammanghat@gmail.com,8745612345,Hyderabad,500004,03-02-2014,32000,Employee,M.Tech.,Programming,D003,TimeManagement,87,67
+E009,Anshuman,Swain,Male,01-01-1980,arun.somasekharan@gmail.com,9456124785,Hyderabad,500091,10-12-2015,41000,Employee,IT,QualityManagemnt,D004,TimeManagement,88,68
+E010,Gautham,Krishnan Priya,Female,09-09-1980,ananthuappu0404@gmail.com,7458745126,Hyderabad,500034,25-02-2015,25365,Employee,B.Tech.,Accounting,D005,PHPDevolopment,89,69
+E011,Harikrishna,Satheesh Pillai,Male,06-12-1958,anjanaamenon2003@gmail.com,8475123745,Hyderabad,500004,12-12-2016,21322,Employee,B.Tech.,Marketing,D001,Soft-Skills,90,70
+E012,Karthik,Dinesh,Male,25-12-1998,dksingh3659@yahoo.com,9457812345,Nicobar,744302,14-05-2018,82000,Admin,Ph.D.,QualityManagemnt,D004,TimeManagement,91,71
+E013,Gopisetty,Venkata Vivek,Male,13-04-1995,rsm.raja61@gmail.com,9475812347,Nicobar,744301,15-02-2019,96000,Admin,Ph.D.,Administration,D002,PHPDevolopment,92,72
+E014,Satvik,Aravalapalli,Male,15-12-1993,aswink2004@gmail.com,8451236954,Nicobar,744303,13-02-2015,26000,Employee,IT,Accounting,D005,TimeManagement,93,73
+E015,Bollisetty,Shiva Shankara Varaprasad,Male,05-03-2003,anandababub9@gmail.com,7456891234,Tirap,792129,06-05-2015,47000,Employee,M.Tech.,Administration,D002,TimeManagement,94,74
+E016,Bandra,Mohammed Sami Shaik,Male,12-02-1996,venkatasubbarao173@gmail.com,8451234568,Tirap,792129,04-02-2016,52000,Employee,M.Tech.,Marketing,D001,Soft-Skills,95,75
+E017,Daketi,Karav Tej,Male,25-12-1965,bharathkrishna0appu@gmail.com,9456123147,East Sikkim,737135,12-04-2015,25245,Admin,Ph.D.,Programming,D003,TechnicalTraining,96,76
+E018,Purushottam,Reddy,Male,03-08-2002,purush3190@gmail.com,6300793297,Kurnool,518512,12-03-2012,54000,Admin,B.Tech.,QualityManagemnt,D004,PHPDevolopment,97,77
+E019,Adithya,D Varma,Male,24-04-1955,dharmajee@hotmail.com,9456214578,Dibang Valley,792101,05-02-2015,74000,Employee,Ph.D.,Administration,D002,TimeManagement,98,78
+E020,P,JAGATH SUYA,Male,14-12-1992,sureshkumarnv27@gmail.com,7456123456,Arwal,824115,04-02-2016,45000,Employee,IT,Programming,D003,TechnicalTraining,99,79
+E021,Anfas,Hassan V,Female,25-10-1985,laxmilazz2003@gmail.com,7451234567,Arwal,804401,24-06-2014,24000,Employee,M.Tech.,Accounting,D005,PHPDevolopment,100,80
+E022,Behera,Khitish Kumar,Male,02-11-1993,Kisor15jan@gmail.com,8456123456,Chandigarh,140119,25-11-2015,52000,Employee,B.Tech.,Marketing,D001,Soft-Skills,70,81
+E023,Aiswarya,Satheesh,Female,15-01-1988,gauthammuralinmbr@gmail.com,9451231475,Chandigarh,160003,15-02-2019,86000,Employee,Ph.D.,QualityManagemnt,D004,ProfessionalTraining,71,82
+E024,SK,Anand,Male,06-05-1958,jagruthig2003@gmail.com,8451236941,Gariaband,493891,20-03-2017,45000,Employee,IT,Administration,D002,PHPDevolopment,72,83
+E025,Athul,Gireesh,Male,01-12-2000,gouthamkrishna013@gmail.com,7145612345,East Delhi,110090,15-12-2015,54254,Employee,B.Tech.,Programming,D003,TechnicalTraining,73,84
+E026,Adithya,Krishna,Female,10-11-1993,sanju3099@gmail.com,9447305858,South West Delhi,110075,16-10-2018,32000,Employee,Ph.D.,Accounting,D005,TimeManagement,74,85
+E027,Anagha,Viju,Female,03-11-1999,harshtpu@gmail.com,9495415460,North Delhi,110006,16-09-2017,41000,Employee,M.Tech.,QualityManagemnt,D004,ProfessionalTraining,75,86
+E028,SWATHY,RAJESH,Female,05-01-1999,hrishabtharayil987@gmail.com,9074833903,North Delhi,110006,09-09-2010,25365,Employee,B.Tech.,Marketing,D001,Soft-Skills,76,87
+E029,Nandita,Sangeeth,Female,26-04-1991,varghesejoe86@gmail.com,8299342443,North Goa,403503,12-05-2012,21322,Employee,M.Sc.,Accounting,D005,TimeManagement,77,88
+E030,Varalakshmi,MR,Female,11-12-1994,pranayreddyk1204@gmail.com,6282329695,North Goa,403530,05-09-2010,82000,Employee,Ph.D.,Administration,D002,Soft-Skills,78,89
+E031,Navneeth,Krishna,Male,03-02-1992,ketone.agasti@gmail.com,7012427965,Gandhi Nagar,382640,13-08-2010,96000,Employee,B.Tech.,QualityManagemnt,D004,ProfessionalTraining,79,90
+E032,Anushka,Kaimal,Female,03-05-1958,varunkotha20@gmail.com,9447066052,Gandhi Nagar,382810,05-12-2015,26000,Employee,M.Sc.,Administration,D002,TimeManagement,80,91
+E033,Adithya,R K Nambiar,Male,12-12-1989,chenchulakshminarayanarao@gmail.com,9495949062,Gandhi Nagar,382735,15-08-2020,15251,Employee,B.Tech.,Marketing,D001,Soft-Skills,81,92
+E034,Ashwin,Tejo,Male,14-12-1992,nishantpramod@yahoo.co.in,9446563025,Gandhi Nagar,382305,25-03-2014,86000,Employee,Ph.D.,Accounting,D005,ProfessionalTraining,82,93
+E035,Sidharth,S Nair,Male,12-12-2000,pranathi02m@gmail.com,8089639697,Mahe,673310,03-02-2014,74000,Employee,M.Tech.,Administration,D002,TimeManagement,83,94
+E036,Ananthakrishnan,Suresh,Male,05-01-1996,meenak7307@gmail.com,9846394119,North Goa,403512,10-12-2015,45000,Employee,B.Tech.,Programming,D003,ProfessionalTraining,84,95
+E037,Amirtha,Narayana NK,Female,08-12-1985,mohithbnair@gmail.com,7042462451,North Goa,403508,25-02-2015,24000,Employee,M.Sc.,QualityManagemnt,D004,PHPDevolopment,85,96
+E038,Karan,Rajesh Nair,Male,14-01-1996,nukalanarmada08021978@gmail.com,9492449986,North Goa,403521,12-12-2016,52000,Employee,M.Sc.,Administration,D002,TimeManagement,86,97
+E039,Roopa,Ravali Bemarasetty,Female,12-04-1996,lycanrocdusk0@gmail.com,6238456348,Pondicherry,605110,14-05-2018,86000,Employee,IT,Accounting,D005,ProfessionalTraining,87,98
+E040,Phanidhar,Reddy Guttikonda,Male,05-01-1984,n.lalithkarthik17@gmail.com,9446082508,Pondicherry,607402,15-02-2019,45000,Employee,Ph.D.,Programming,D003,TechnicalTraining,88,99
+E041,ANANTHAJITH,NAMBIAR H,Male,08-05-1994,niranjansnambiar.sudinam@gmail.com,8886428184,Idukki,685561,13-02-2015,74000,Employee,IT,Administration,D002,PHPDevolopment,89,75
+E042,D,Sushanth Reddy,Male,04-06-1965,arjunkrishnapm777@gmail.com,8137086108,Idukki,685590,06-05-2015,45000,Employee,M.Sc.,Programming,D003,TimeManagement,90,76
+E043,MANAV,MANIPRASAD,Male,04-06-1958,nineedn+078@gmail.com,9581836603,Kollam,689696,04-02-2016,24000,Employee,B.Tech.,Administration,D002,ProfessionalTraining,91,77
+E044,Gouri,S Vipin,Female,01-05-1978,pournamipremjithpp@gmail.com,9440955436,Kollam,691573,12-04-2015,52000,Employee,M.Sc.,QualityManagemnt,D004,PHPDevolopment,92,78
+E045,Charishma,Akshaya Pullakhandam,Female,07-05-1975,surekhadrk@gmail.com,9447505986,Palakkad,679503,12-03-2012,86000,Employee,Ph.D.,Programming,D003,ProfessionalTraining,93,79
+E046,Tallapalli,Uday Krishna,Male,05-02-1977,pyarasaani.jaidev@gmail.com,8590354928,Palakkad,678581,15-12-2013,45000,Employee,IT,Accounting,D005,TimeManagement,94,80
+E047,Parvathy,G Pillai,Female,15-10-1975,ranginenis@gmail.com,9943023261,Adilabad,504273,04-11-2018,32000,Employee,B.Tech.,Programming,D003,TechnicalTraining,95,81
+E048,Adithya,S Nair,Male,02-04-1975,geddamsujathakumari@gmail.com,9746741778,Adilabad,504293,05-08-2015,41000,Employee,M.Tech.,Marketing,D001,Soft-Skills,96,82
+E049,Kattamuri,Tejo Vardhan,Male,26-01-1987,rohithshinoj@gmail.com,9949848535,Adilabad,504307,03-05-2019,25365,Employee,M.Sc.,Programming,D003,TimeManagement,97,83
+E050,Aravind,M J,Male,21-11-1984,ravindrat6960@gmail.com,9497858258,Adilabad,504001,11-12-2018,21322,Employee,B.Tech.,Administration,D002,PHPDevolopment,98,84
+E051,R,V AJAGOPALAN,Male,12-12-1985,sanjaymaestron@gmail.com,6300424884,Adilabad,504001,16-09-2017,82000,Employee,IT,Programming,D003,TechnicalManagement,99,85
+E052,Anugrah,Nambiar,Male,04-01-1996,shriyaindarapu2003@gmail.com,9487521755,Adilabad,504251,09-09-2010,96000,Employee,M.Tech.,Accounting,D005,TimeManagement,80,86
+E053,Kancharla,venkata Keerthana reddy,Female,05-02-1987,sidharthav4321@gmail.com,9844533493,Adilabad,504273,12-05-2012,26000,Employee,Ph.D.,QualityManagemnt,D004,TimeManagement,81,87
+E054,Santhosh,Mamidisetti,Male,25-02-1999,venusdr@gmail.com,7736712867,East Sikkim,737113,05-09-2010,74000,Employee,M.Sc.,Administration,D002,PHPDevolopment,82,88
+E055,Abhinand,M S,Male,05-02-1988,mithunpc@gmail.com,7330983849,Coimbatore,642205,13-08-2010,45000,Employee,B.Tech.,Marketing,D001,Soft-Skills,83,89
+E056,J,Viswaksena,Male,14-05-1982,gopinullivila@gmail.com,9704515577,East Sikkim,737135,05-12-2015,24000,Employee,M.Sc.,Programming,D003,TechnicalTraining,84,90
+E057,SURYA,VAMSI VEMA,Male,30-11-1987,rajamanigowd3@gmail.com,8328677635,Madurai,625514,15-08-2020,52000,Employee,Ph.D.,Accounting,D005,TimeManagement,85,91
+E058,Sai,Manasa Sowmya Hasavathu,Female,04-02-1999,udamalapratyusha@gmail.com,9703670009,East Sikkim,737106,25-03-2014,86000,Employee,M.Sc.,Administration,D002,PHP Devolopment,86,92
+E059,Avadhuta,Sai Varun,Female,04-05-1987,varunnkp2003@gmail.com,8129179828,Coimbatore,641663,03-02-2014,45000,Employee,Ph.D.,Accounting,D005,TimeManagement,87,93
+E060,Karthik,G Nair,Male,05-11-1978,venigallamanoj99@gmail.com,9849527175,Chennai,600102,10-12-2015,74000,Employee,M.Sc.,Marketing,D001,Soft-Skills,88,94
+E061,Abhishek,a,Male,25-02-1975,vinayakvthayil40@gmail.com,9746350524,Chamrajnagar,571441,25-02-2015,45000,Employee,M.Tech.,Administration,D002,ProfessionalTraining,89,95
+E062,ANNAPOORNA,AK,Female,26-11-1974,viswajith.v.nair@gmail.com,9846335837,Chennai,600002,12-12-2016,24000,Employee,B.Tech.,QualityManagemnt,D004,TimeManagement,90,96
+E063,Vishnu,Shaji,Male,31-01-1975,yaswanth.004.001@gmail.com,8639151252,East Sikkim,737113,14-05-2018,52000,Employee,IT,Administration,D002,ProfessionalTraining,91,97
+E064,Parvathi,Pk,Female,25-09-1994,aksharack398@gmail.com,8921897754,Madurai,625501,15-02-2019,86000,Employee,B.Tech.,Accounting,D005,PHPDevolopment,92,98
+E065,NAVNEETH,SURESH,Male,06-02-1972,binoyjose9@gmail.com,7993126059,Coimbatore,641652,13-02-2015,45000,Employee,M.Tech.,Marketing,D001,Soft-Skills,93,58
+E066,Dhruv,R Krishnan,Male,25-10-1988,amruthganeshjm@gmail.com,8606490693,Chennai,600101,06-05-2015,21322,Employee,B.Tech.,Administration,D002,TimeManagement,94,59
+E067,Gouru,Sai Deepak,Male,12-12-1992,rajeevkala97@gmail.com,8078851981,Coimbatore,642002,04-02-2016,82000,Employee,M.Sc.,Accounting,D005,ProfessionalTraining,95,60
+E068,A,P KRISHN,Male,01-01-1995,geelupaul@gmail.com,9030789899,East Sikkim,737134,12-04-2015,96000,Employee,IT,QualityManagemnt,D004,ProfessionalTraining,96,61
+E069,Madiraju,Bharadwaj,Male,09-08-1996,anuparunaruna@gmail.com,8848836481,Coimbatore,642111,12-03-2012,32000,Employee,Ph.D.,Programming,D003,TechnicalTraining,97,62
+E070,SHAIK,NADEEM MOHAMMAD,Male,08-09-1995,a.sreenu1971@gmail.com,9248126789,Ri Bhoi,793104,15-12-2013,41000,Employee,M.Sc.,Accounting,D005,ProfessionalTraining,88,63
+E071,Vedagiri,Praneeth,Male,06-08-1996,aswinc200369@gmail.com,8886333655,Guntur,522235,04-11-2018,25365,Employee,M.Tech.,Marketing,D001,Soft-Skills,75,64
+E072,Ishaan,Dadhich,Male,07-09-1997,bknairpala@gmail.com,9000899942,Amritsar,143502,05-08-2015,21322,Employee,B.Tech.,Marketing,D001,Soft-Skills,86,65
+E073,Abhishek,S B,Male,06-10-1998,syamsaibandi48@gmail.com,9493476258,Krishna,521202,03-05-2019,82000,Employee,M.Sc.,Administration,D002,ProfessionalTraining,86,66
+E074,Advaith,P R,Male,05-11-1999,gokulg2255@gmail.com,7034238865,Visakhapatnam,531035,11-12-2018,96000,Employee,B.Tech.,Programming,D003,TechnicalTraining,56,67
+E075,Adith,S Biju,Male,04-12-1989,gokrish.2003@gmail.com,8247686960,Hisar,125033,03-02-2014,26000,Employee,Ph.D.,QualityManagemnt,D004,TimeManagement,80,68
+E076,Sai Sarvagna,Beeram,Female,23-05-1974,saisarvagna023@gmail.com,9504910111,Guntur,522006,23-05-2003,99999,Admin,B.Tech,Computer Science,D006,HRManagement,100,100
+E077,Sindhu Sahithi,Gelam,Female,26-04-1974,sindhusahithi2623@gmail.com,9014328050,Kakinada,533001,26-04-2003,99999,Admin,B.Tech,Computer Science,D006,HRManagement,100,100
+E078,S N Manikanta,Thota,Male,12-07-1981,manikantathota23@gmail.com,9441724313,Vijayawada,502355,12-07-2004,10000,Admin,B.Tech,Computer Science,D006,HRManagement,96,96
+E079,D M N SuryaTeja,Tummala,Male,22-09-1980,suryateja084@gmail.com,7013867179,Vishakapatnam,530003,22-09-2003,11000,Admin,B.Tech,Computer Science,D006,HRManagement,96,96
